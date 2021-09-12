@@ -1,4 +1,4 @@
-# The json-to-iso using j8583
+# The json-to-iso using j8583 and Springboot
 
 ## How to Build
 
