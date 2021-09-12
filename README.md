@@ -1,6 +1,4 @@
-# j8583-iso-client
-
-Iso8583 Client using j8583 and non-blocking netty.
+# The json-to-iso using j8583
 
 ## How to Build
 
