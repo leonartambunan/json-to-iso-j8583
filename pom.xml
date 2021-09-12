@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>id.co.nio</groupId>
-    <artifactId>j8583-netty-server</artifactId>
+    <artifactId>json-to-iso-j8583</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
